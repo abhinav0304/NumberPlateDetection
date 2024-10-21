@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Plate Snap</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="welcome_to_the_number_plate_detection_app">Welcome To The Number Plate Detection App</string>
+</resources>
